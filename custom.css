@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lexend Deca',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.text-light {
+    font-family: 'Big Shoulders', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: hsl(0, 0%, 95%) !important;
+}
+.text-secondary {
+    color: hsla(0, 0%, 100%, 0.75) !important;
+}
+.btn-light {
+    background-color: hsl(0, 0%, 95%) !important;
+}
+.bg-primary {
+    background-color: hsl(31, 77%, 52%) !important;
+}
+.text-warning {
+    color: hsl(31, 77%, 52%) !important;
+    font-family: 'Lexend Deca',sans-serif;
+}
+.bg-info {
+    background-color: hsl(184, 100%, 22%) !important;
+}
+.text-success {
+    color: hsl(184, 100%, 22%) !important;
+    font-family: 'Lexend Deca',sans-serif;
+}
+.bg-success {
+    background-color: hsl(179, 100%, 13%) !important;
+}
+.text-info {
+    color: hsl(179, 100%, 13%) !important;
+    font-family: 'Lexend Deca', sans-serif;
+}
